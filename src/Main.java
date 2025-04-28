@@ -3,5 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Shalom epta!");
+        System.out.println("Проверка веток");
+        System.out.println("Всё хорошо!");
     }
 }
